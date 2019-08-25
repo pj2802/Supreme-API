@@ -1,0 +1,13 @@
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/bin/Debug/netcoreapp2.2/SupremeAPI.deps.json
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/bin/Debug/netcoreapp2.2/SupremeAPI.runtimeconfig.json
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/bin/Debug/netcoreapp2.2/SupremeAPI.runtimeconfig.dev.json
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/bin/Debug/netcoreapp2.2/SupremeAPI.dll
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/bin/Debug/netcoreapp2.2/SupremeAPI.pdb
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.csproj.CoreCompileInputs.cache
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.RazorAssemblyInfo.cache
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.RazorAssemblyInfo.cs
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.AssemblyInfoInputs.cache
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.AssemblyInfo.cs
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.RazorTargetAssemblyInfo.cache
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.dll
+/Users/vivek/personal/dot-net-core-api/SupremeAPI/SupremeAPI/obj/Debug/netcoreapp2.2/SupremeAPI.pdb

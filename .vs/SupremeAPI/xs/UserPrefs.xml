@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{85EB3DBD-D338-4151-8779-ED9D39099CCE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../usr/local/share/dotnet/sdk/2.2.300/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets">
+    <Files>
+      <File FileName="SupremeAPI/Controllers/ValuesController.cs" Line="32" Column="1" />
+      <File FileName="SupremeAPI/Controllers/UserController.cs" />
+      <File FileName="SupremeAPI/Dtos/UserDto.cs" />
+      <File FileName="SupremeAPI/Entities/User.cs" />
+      <File FileName="SupremeAPI/Services/UserService.cs" />
+      <File FileName="SupremeAPI/appsettings.Development.json" />
+      <File FileName="SupremeAPI/appsettings.json" />
+      <File FileName="SupremeAPI/Program.cs" />
+      <File FileName="SupremeAPI/Startup.cs" Line="11" Column="36" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/2.2.300/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets" Line="153" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SupremeAPI" expanded="True" selected="True">
+            <Node name="SupremeAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SupremeAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
